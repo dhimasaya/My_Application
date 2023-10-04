@@ -30,7 +30,7 @@ class LoginActivity : AppCompatActivity() {
             } else {
                 Toast.makeText(this, "Username atau Password Salah", Toast.LENGTH_SHORT).show()
             }
-        }
+       }
 
 
 
